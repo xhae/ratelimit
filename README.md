@@ -19,3 +19,9 @@ $ pip install pytest
 $ export FLASK_APP=main.py
 $ flask run
 ```
+
+# How to test
+
+```
+$ pytest
+```
